@@ -1,0 +1,207 @@
+
+No.1 test:
+Jigsaw Completed
+Begin state:{13,15,18,7,12,8,3,13,6,10,24,1,22,0,19,2,9,16,20,11,14,23,21,4,5,17}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:9686
+Length of the solution path is:402
+
+No.2 test:
+Jigsaw Completed
+Begin state:{7,2,4,6,10,3,9,0,11,1,22,14,18,19,7,8,16,23,24,5,15,21,13,20,12,17}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:12635
+Length of the solution path is:258
+
+No.3 test:
+Jigsaw Completed
+Begin state:{15,9,13,5,20,19,16,1,15,23,14,17,10,18,21,0,2,6,3,11,24,7,22,12,4,8}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:7175
+Length of the solution path is:376
+
+No.4 test:
+Jigsaw Completed
+Begin state:{8,24,1,17,8,19,4,6,0,23,13,10,16,12,18,11,2,9,20,15,22,3,14,5,7,21}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:11137
+Length of the solution path is:341
+
+No.5 test:
+Jigsaw Completed
+Begin state:{1,0,2,14,8,16,17,6,5,11,4,12,24,9,23,10,3,7,18,13,22,1,19,21,20,15}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:5560
+Length of the solution path is:230
+
+No.6 test:
+Jigsaw Completed
+Begin state:{1,0,8,9,24,3,13,2,21,5,4,7,14,10,11,22,23,6,19,15,18,1,20,16,17,12}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:7562
+Length of the solution path is:294
+
+No.7 test:
+Jigsaw Completed
+Begin state:{14,22,5,18,2,7,23,16,9,4,24,1,12,8,0,10,19,3,14,13,15,17,21,20,6,11}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:8121
+Length of the solution path is:427
+
+No.8 test:
+Jigsaw Completed
+Begin state:{13,23,13,24,5,4,10,21,9,11,20,12,19,0,17,22,3,15,7,1,14,18,2,16,6,8}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:6626
+Length of the solution path is:354
+
+No.9 test:
+Jigsaw Completed
+Begin state:{17,21,6,5,22,3,12,7,23,8,2,14,9,4,15,18,24,0,1,10,19,16,13,17,11,20}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:3823
+Length of the solution path is:330
+
+No.10 test:
+No solution. Jigsaw Not Completed
+Begin state:{8,9,11,21,5,17,20,6,0,22,15,3,12,7,13,8,19,2,4,14,23,1,16,18,24,10}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:25001
+
+No.11 test:
+Jigsaw Completed
+Begin state:{23,18,12,7,23,19,2,17,1,20,3,14,16,24,9,15,22,11,13,8,5,4,10,0,6,21}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:4188
+Length of the solution path is:348
+
+No.12 test:
+Jigsaw Completed
+Begin state:{11,6,7,13,1,21,17,9,22,11,2,0,12,24,14,23,3,5,8,18,15,20,19,4,10,16}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:14772
+Length of the solution path is:368
+
+No.13 test:
+No solution. Jigsaw Not Completed
+Begin state:{20,13,6,10,16,2,7,22,9,23,18,11,1,14,3,5,8,15,4,21,0,17,19,20,24,12}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:25001
+
+No.14 test:
+Jigsaw Completed
+Begin state:{24,4,17,24,15,6,16,11,5,14,20,7,3,9,1,10,8,21,13,2,19,22,12,23,0,18}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:4161
+Length of the solution path is:265
+
+No.15 test:
+Jigsaw Completed
+Begin state:{6,6,13,15,23,16,0,17,3,12,20,11,21,9,22,18,1,7,19,24,4,14,2,8,5,10}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:2839
+Length of the solution path is:299
+
+No.16 test:
+Jigsaw Completed
+Begin state:{5,12,1,9,2,0,5,21,10,18,17,8,6,16,13,14,3,20,22,7,4,11,23,19,15,24}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:9201
+Length of the solution path is:248
+
+No.17 test:
+Jigsaw Completed
+Begin state:{8,1,7,23,22,4,17,2,0,11,14,12,5,6,24,3,18,21,8,13,19,20,15,9,10,16}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:7318
+Length of the solution path is:305
+
+No.18 test:
+Jigsaw Completed
+Begin state:{13,15,21,20,13,9,6,12,2,19,10,11,17,0,1,23,14,18,22,3,5,8,16,4,24,7}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:16546
+Length of the solution path is:400
+
+No.19 test:
+Jigsaw Completed
+Begin state:{17,19,11,1,5,3,24,13,9,15,8,7,4,22,23,6,14,0,12,10,16,2,18,21,17,20}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:7701
+Length of the solution path is:334
+
+No.20 test:
+Jigsaw Completed
+Begin state:{16,7,8,11,5,19,16,14,21,3,4,15,24,12,10,9,0,1,6,2,17,23,18,13,22,20}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:3152
+Length of the solution path is:275
+
+No.21 test:
+Jigsaw Completed
+Begin state:{2,4,0,8,11,5,2,24,20,3,12,21,1,13,9,14,23,6,7,15,19,10,18,22,16,17}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:6705
+Length of the solution path is:317
+
+No.22 test:
+Jigsaw Completed
+Begin state:{2,2,0,14,17,24,22,7,3,5,19,11,8,15,4,9,18,13,10,21,12,6,20,23,1,16}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:6008
+Length of the solution path is:327
+
+No.23 test:
+Jigsaw Completed
+Begin state:{20,14,16,21,12,4,3,1,10,24,15,7,23,11,5,19,6,9,2,8,0,20,18,17,22,13}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:8126
+Length of the solution path is:377
+
+No.24 test:
+Jigsaw Completed
+Begin state:{20,21,3,7,5,9,15,13,19,14,23,24,22,20,11,2,8,1,6,17,0,10,16,4,12,18}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:17080
+Length of the solution path is:449
+
+No.25 test:
+Jigsaw Completed
+Begin state:{21,1,20,14,19,9,5,21,10,17,8,13,24,16,15,6,4,2,11,18,3,0,12,7,23,22}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:22692
+Length of the solution path is:376
+
+No.26 test:
+Jigsaw Completed
+Begin state:{6,19,16,23,22,14,0,13,6,15,11,17,5,1,10,20,4,2,24,7,9,12,3,18,21,8}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:3719
+Length of the solution path is:301
+
+No.27 test:
+Jigsaw Completed
+Begin state:{7,1,21,7,14,22,16,0,18,8,11,3,5,13,24,19,12,20,2,23,10,4,6,15,17,9}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:8125
+Length of the solution path is:304
+
+No.28 test:
+No solution. Jigsaw Not Completed
+Begin state:{17,4,14,10,18,1,12,3,22,9,24,6,21,7,15,23,17,0,13,8,5,19,20,2,16,11}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:25001
+
+No.29 test:
+Jigsaw Completed
+Begin state:{8,18,12,4,14,10,2,15,0,20,13,3,23,7,1,5,6,19,17,8,16,22,11,24,21,9}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:21587
+Length of the solution path is:437
+
+No.30 test:
+Jigsaw Completed
+Begin state:{11,9,18,2,8,17,19,13,22,1,10,0,11,14,24,5,7,16,12,4,23,6,21,20,3,15}
+End state:{25,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,0}
+Total number of searched nodes:5957
+Length of the solution path is:300
